@@ -1,0 +1,6 @@
+{
+    "name": "producer/producer",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.8"
+    }
+}
